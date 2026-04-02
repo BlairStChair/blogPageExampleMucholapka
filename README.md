@@ -16,7 +16,7 @@ The About page explains the origin of the name of the blog.
 
 ![image](https://github.com/user-attachments/assets/0936fbf8-d5ca-46e8-9ad1-81cb3a838e18)
 
-You can check it out here --> https://blairstchair.github.io/blogPageExample/
+
 
 Used resources:
 
