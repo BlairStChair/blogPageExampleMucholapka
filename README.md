@@ -1,4 +1,7 @@
 # blogPageExample 🌿
+
+https://blairstchair.github.io/blogPageExampleMucholapka/
+
 The blog page was made to practice my new CSS and HTML skills.
 
 You can find some information about carnivorous plants there.
